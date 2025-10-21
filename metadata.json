@@ -1,0 +1,8 @@
+{
+  "name": "Copy of First Round AI",
+  "description": "An AI-powered interview training platform to help you practice, analyze, and improve your interview skills.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
